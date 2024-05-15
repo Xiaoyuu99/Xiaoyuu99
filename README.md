@@ -31,7 +31,7 @@ I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way to exploring ho
 - Employed **data binning**, **categorical variable encoding**, and **feature engineering** to pinpoint the top ten most influential variables.
 - Developed **predictive model** to forcast the risk level for a new coming property based on history inspection data. Implemented machine learning tools including **logistic regression**, **XGBoost** and **random forest** to forecast house condition, optimized current algorithms by **reducing** 80% of redundant inspection cases, predicted to **save** about $421k per year.
   Project information:
-  ![predictive analysis](20.pdf)
+  ![predictive analysis](predictive_analysis.png)
 
 ### NCAA Championship Tickets Sales Prediction
 
