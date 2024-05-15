@@ -1,10 +1,10 @@
 # Hi there 👋 This is Xiaoyu
-I'm Xiaoyu Guan, a data learner and explorer 👓
+I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way to exploring how data reveal the world 😎
 ### Something about me ...
 - 🏃 MS student at Purdue University, Business Analytics and Information Management program ' 24
 - 📫 E-mail me at: guanxiaoyu991113@gmail.com 
 - ☎️ Call me at: (+1) 765-694-9684
-- 🏠 Based in West Lafayette, Indiana now
+- 🏠 Based in West Lafayette, Indiana 
   
 ## ⚡️ Skills
 - Programming/database platform: SQL, Python (NumPy, pandas, sklearn, matplotlib), SAS Enterprise Miner
@@ -26,7 +26,11 @@ I'm Xiaoyu Guan, a data learner and explorer 👓
 - **Relevant Course**: Econometrics, Higher Mathematics, Linear Algebra, Probability Statistics, Financial Marketing, International Finance, Financial Management, Financial Analysis, Accounting
 
 ## 📖 Academic Projects
-### Property risk level prediction for Insurance company
+### Property risk level prediction for House Insurance company
+- Conducted **cost analysis** on redundant inspections, exposing limitations in the current algorithm for identifying at-risk properties.
+- Employed **data binning**, **categorical variable encoding**, and **feature engineering** to pinpoint the top ten most influential variables.
+- Developed **predictive model** to forcast the risk level for a new coming property based on history inspection data. Implemented machine learning tools including **logistic regression**, **XGBoost** and **random forest** to forecast house condition, optimized current algorithms by **reducing** 80% of redundant inspection cases, predicted to **save** about $421k per year.
+  
 
 ### NCAA Championship Tickets Sales Prediction
 
