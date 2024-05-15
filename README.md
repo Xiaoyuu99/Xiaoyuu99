@@ -30,13 +30,16 @@ I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way to exploring ho
 - Conducted **cost analysis** on redundant inspections, exposing limitations in the current algorithm for identifying at-risk properties.
 - Employed **data binning**, **categorical variable encoding**, and **feature engineering** to pinpoint the top ten most influential variables.
 - Developed **predictive model** to forcast the risk level for a new coming property based on history inspection data. Implemented machine learning tools including **logistic regression**, **XGBoost** and **random forest** to forecast house condition, optimized current algorithms by **reducing** 80% of redundant inspection cases, predicted to **save** about $421k per year.
-- Project information:
+- [Project information](https://github.com/Xiaoyuu99/Predictive_analysis_for_house_insurance/tree/main)
 - Poster:
   
   ![predictive analysis](predictive_analysis.png)
 
 ### NCAA Championship Tickets Sales Prediction
-
+- Pre-processed large amount of data (> 200k) with Python, identified potential patterns behind duration of time and history activity, created new table to track the patterns. Encoded categorical data to prepare for model training.
+- Applied machine learning tools including logistic regression, decision tree algorithm, neural network and XGBoost to predict the tickets sales, optimizing towards an accuracy score metrics. Achieved in a model performance of 0.979 in accuracy on the test dataset with XGBoost model.
+- [Project information](https://github.com/Xiaoyuu99/CACC)
+  
 ### 
 
 
