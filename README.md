@@ -35,6 +35,13 @@ I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way to exploring ho
   
   ![predictive analysis](predictive_analysis.png)
 
+### Auto Parts Inventory Optimization with AWS
+- Implemented **Amazon S3** to saved the data, **AWS Glue** to extract sample store data, fill missing value, transform string data to category, and do EDA for processed dataset.
+- Using **Amazon Sagermaker** to build the predictive model for selling condition and selling quantity for each product, utilized stratified k-folds cross validation to evaluate the accuracy of the model.
+- Using **AWS Labmda** to build the optimization model, implemented **pyomo** to get the optimal inventory level for each listed product with the space and feasible revenue constrains.
+- [Project information]
+- Poster:
+
 ### NCAA Championship Tickets Sales Prediction
 - Pre-processed large amount of data (> 200k) with Python, identified potential patterns behind duration of time and history activity, created new table to track the patterns. Encoded categorical data to prepare for model training.
 - Applied machine learning tools including logistic regression, decision tree algorithm, neural network and XGBoost to predict the tickets sales, optimizing towards an accuracy score metrics. Achieved in a model performance of 0.979 in accuracy on the test dataset with XGBoost model.
