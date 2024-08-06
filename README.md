@@ -42,7 +42,7 @@ I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way to exploring ho
 - [Project information](https://github.com/Xiaoyuu99/Auto-Parts-Inventory-Optimization)
 - Poster:
 
-  ![https://github.com/Xiaoyuu99/Auto-Parts-Inventory-Optimization/blob/main/AWS%20Final%20Project%20Poster.pdf]
+  ![AWS Final Project Poster.](https://github.com/Xiaoyuu99/Auto-Parts-Inventory-Optimization/blob/main/AWS%20Final%20Project%20Poster.pdf)
 
 ### NCAA Championship Tickets Sales Prediction
 - Pre-processed large amount of data (> 200k) with Python, identified potential patterns behind duration of time and history activity, created new table to track the patterns. Encoded categorical data to prepare for model training.
