@@ -7,10 +7,10 @@ I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way to exploring ho
 - 🏠 Based in West Lafayette, Indiana 
   
 ## ⚡️ Skills
-- Programming/database platform: SQL, Python (NumPy, pandas, sklearn, matplotlib), SAS Enterprise Miner
+- Programming/database platform: SQL, Python (NumPy, pandas, sklearn, matplotlib), R, SAS Enterprise Miner
 - Analytics/visualization tool: Tableau, Advanced Excel (pivot table, solver, VLOOKUP, @RISK), Minitab
 - Management tool: Smartsheet, MS Project
-- Certification: Azure Fundamentals, AWS certified Cloud Practitioner
+- Certification: Azure Fundamentals, AWS certified Cloud Practitioner, AWS Academy Machine Learning Foundations
 
 ## 🎓 Education Experience
 ### Purdue University
