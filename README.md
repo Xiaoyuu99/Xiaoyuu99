@@ -42,6 +42,8 @@ I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way to exploring ho
 - [Project information](https://github.com/Xiaoyuu99/Auto-Parts-Inventory-Optimization)
 - Poster:
 
+  ![https://github.com/Xiaoyuu99/Auto-Parts-Inventory-Optimization/blob/main/AWS%20Final%20Project%20Poster.pdf]
+
 ### NCAA Championship Tickets Sales Prediction
 - Pre-processed large amount of data (> 200k) with Python, identified potential patterns behind duration of time and history activity, created new table to track the patterns. Encoded categorical data to prepare for model training.
 - Applied machine learning tools including logistic regression, decision tree algorithm, neural network and XGBoost to predict the tickets sales, optimizing towards an accuracy score metrics. Achieved in a model performance of 0.979 in accuracy on the test dataset with XGBoost model.
