@@ -39,7 +39,7 @@ I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way to exploring ho
 - Implemented **Amazon S3** to saved the data, **AWS Glue** to extract sample store data, fill missing value, transform string data to category, and do EDA for processed dataset.
 - Using **Amazon Sagermaker** to build the predictive model for selling condition and selling quantity for each product, utilized stratified k-folds cross validation to evaluate the accuracy of the model.
 - Using **AWS Labmda** to build the optimization model, implemented **pyomo** to get the optimal inventory level for each listed product with the space and feasible revenue constrains.
-- [Project information]
+- [Project information](https://github.com/Xiaoyuu99/Auto-Parts-Inventory-Optimization)
 - Poster:
 
 ### NCAA Championship Tickets Sales Prediction
