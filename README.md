@@ -17,7 +17,7 @@ I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way to exploring ho
 *Master* - *Business Analytics and Information Management (BAIM)*
 - 2023 August - 2024 August
 - West Lafayette, Indiana
-- **Relevant Course**: Business Analytics (Linear Regression, Hypothesis test), Visual Analytics (Tableau), Big Data (GCP), Cloud Computing (AWS), Management of Organizational Data (SQL), Data Mining, Spreadsheet Modeling and Simulation, Financial Risk Management, Fix Income Security
+- **Relevant Course**: Business Analytics (Linear Regression, Hypothesis test), Adavanced Business Analytics (R, Time Series Analysis), Visual Analytics (Tableau), Big Data (GCP), Cloud Computing (AWS), Data Scientist in the Cloud (AWS-Sagemaker, Optimization), Management of Organizational Data (SQL), Data Mining, Spreadsheet Modeling and Simulation (Solver, @RISK), Financial Risk Management, Fix Income Security
 
 ### Tianjin University of Commerce
 *Bachelor* - *Finance*
