@@ -1,5 +1,5 @@
 # Hi there 👋 This is Xiaoyu
-I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way for exploring how data reveal the world 😎
+I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way to exploring how data reveal the world 😎
 ### Something about me ...
 - 🏃 MS student at Purdue University, Business Analytics and Information Management program ' 24
 - 📫 E-mail me at: guanxiaoyu991113@gmail.com 
