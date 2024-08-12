@@ -38,7 +38,7 @@ I'm Xiaoyu Guan, loving cats🐱 and coffee☕️ and on the way to exploring ho
 ### Auto Parts Inventory Optimization with AWS
 - Utilized **Amazon S3** for data storage, **AWS Glue** to extract, clean, and transform store data, including handling missing values and converting string data to categorical formats, followed by exploratory data analysis (EDA).
 - Employed **Amazon SageMaker** to develop predictive models for product selling conditions and quantities, leveraging stratified k-fold cross-validation for model accuracy assessment, ensuring flexibility for stores with unbalanced target variables.
-- Implemented an optimization model using **AWS Lambda** and **Pyomo** to determine optimal inventory levels, considering space constraints and maximizing feasible revenue.
+- Implemented an optimization model using **AWS Lambda** and **Pyomo** to determine optimal inventory levels, considering space constraints and maximizing feasible revenue. Increased the profit rate per storage cubic inch from 2.02 to 3.3.
 - [Project information](https://github.com/Xiaoyuu99/Auto-Parts-Inventory-Optimization)
 - Poster:
 
